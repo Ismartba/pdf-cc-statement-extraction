@@ -1,7 +1,7 @@
 # PDF Credit Card Statement Extraction
 
 A Python pipeline that converts transaction data trapped inside PDF credit-card
-statements into a structured, analysis-ready dataset — with source-level
+statements into a structured, analysis-ready dataset, with source-level
 traceability and a reconciliation step against the statement's own printed
 totals.
 
