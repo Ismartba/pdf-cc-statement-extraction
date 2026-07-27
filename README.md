@@ -14,7 +14,7 @@ Credit-card statements are laid out for people, not machines. Descriptions,
 dates, and amounts that look aligned in columns are usually just space-padded
 text once extracted, with no reliable column boundaries. This project inspects
 that raw text first, then builds extraction rules around the patterns that
-are actually there — rather than assuming a fixed format.
+are actually there, rather than assuming a fixed format.
 
 ## Pipeline
 
